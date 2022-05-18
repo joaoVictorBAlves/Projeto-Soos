@@ -1,9 +1,6 @@
 let url = window.location.href;
-alert(url);
-url = url.split("Front-end");
-alert(url);
+url = url.split("netlify.app");
 auth = url[1];
-alert(auth);
 
 
 if (auth == "/" || auth == "/index.html"){
