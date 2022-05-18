@@ -1,14 +1,24 @@
-//Databse
+//Simulação de Databse
 let usuarios = [
     {
         nome: "João Victor Alves",
         idAcademico: "509697",
-        senha: "Jv4984538171"
+        senha: "jv1234"
     },
     {
         nome: "George Gomes",
         idAcademico: "112233",
         senha: "minhasenha"
+    },
+    {
+        nome: "Henrique Pequeno",
+        idAcademico: "101010",
+        senha: "henrique01"
+    },
+    {
+        nome: "Vládia Helen Ferreira Farias",
+        idAcademico: "777777",
+        senha: "gatos123"
     }
 ]
 
